@@ -1,0 +1,6 @@
+.content {
+    display: flex;
+    justify-content: flex-end;
+    margin: 8px 20px;
+    color: #fff;
+}
